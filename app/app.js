@@ -69,7 +69,7 @@ define([
 
         // application settings
         var settings_demo = {
-            name: "Demo",
+            name: "Demo CEDE",
             url: "http://zurich.maps.arcgis.com",           // portal URL for config
             webscene: "0af10b5e35ed4a5bbe095aa76b14b786",   // portal item ID of the webscene
             usagename: "usage",                             // usage attribute (string)
