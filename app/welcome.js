@@ -64,7 +64,7 @@ define([
 
                 var container = domCtr.create("div", { id: "welcome" }, win.body());
 
-                domCtr.create("div", { id: "welcomeTitle", className: "animate-bottom", innerHTML: "c-through" }, container);
+                domCtr.create("div", { id: "welcomeTitle", className: "animate-bottom", innerHTML: "c-through demo edit" }, container);
                 domCtr.create("hr", { id: "welcomeLine", className: "animate-bottom", style: "width:300px" }, container);
                 domCtr.create("img", { id: "esri-logo", src: "img/Capture.PNG", style: "width:200px;height:48px", top: "65%", left: "35%" }, container);
 
